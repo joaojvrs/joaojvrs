@@ -48,8 +48,6 @@
 **Infra & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -93,9 +91,9 @@
 |---------|-----------|-------|
 | [Prylom](https://github.com/joaojvrs/Prylom-Prod) | Terminal de inteligência de mercado Agro & Real Estate — dashboards, geoprocessamento, IA via Function Calling, suporte a RWA/KYC | TS · React · Node.js · Supabase · MCP · OpenAI |
 | [FlyImob](https://github.com/joaojvrs/jaquesemijoias) | SaaS imobiliário end-to-end — agentes de IA no WhatsApp, web scraping, CRM, BI com forecast de VGV, laudos PDF, multi-tenant | Node.js · TS · React · PostgreSQL · MCP · n8n |
-| [Senior Link Up](https://github.com/joaojvrs/senior-link-up) | App de conexão social | TS · React |
-| [Amigo Digital](https://github.com/joaojvrs/amigo-digital) | App de suporte digital | TS · React |
-| [Conecta Cuidado](https://github.com/joaojvrs/conecta-cuidado) | Plataforma de cuidados | TS · Next.js |
+| Ecossistema IA Imobiliário `NDA` | Assistente virtual multimodal para WhatsApp (voz, texto, áudio, imagem) — qualificação de leads, recomendação de imóveis, agendamento, follow-up e lead scoring com relatórios | n8n · LLMs · Evolution API · Uzapi |
+| Minas Táxi `NDA` | Roteirização inteligente de frotas — agrupamento de passageiros, cálculo reverso de horários e otimização de rotas integrada ao Mapbox e sistema de controle existente | Python · ML · Mapbox API |
+
 
 ---
 
